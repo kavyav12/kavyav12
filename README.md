@@ -5,7 +5,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: kavyavvofficial@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I can do a double flip
+- ⚡ Fun fact: I can do a double flip(Just Kidding)
   ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
